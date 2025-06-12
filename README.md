@@ -1,0 +1,2 @@
+# ams.fg
+fun games
